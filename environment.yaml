@@ -1,0 +1,16 @@
+name: BsiteP
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pytorch
+  - pytorch-cuda=12.4
+  - torchaudio
+  - torchvision
+  - openblas-devel
+  - conda-forge::openbabel
+  - conda-forge::matplotlib
+  - conda-forge::py3dmol
+  - scikit-image
+  - anaconda::scikit-learn
+  - anaconda::scikit-image
