@@ -31,3 +31,5 @@ jupyter-lab DCCDCA.ipynb
 - **DCA (Distance from site Centre to ligand atom)**: Measures the distance between the predicted binding site center and individual ligand atoms.
 
 Additionally, you can visualize the predicted binding sites using `py3Dmol`, a powerful tool for 3D molecular visualization. This allows for detailed visual inspection of the predicted binding sites and their proximity to the ligands.
+
+The data used for training is the curated dataset from PUResNet, available at [scpdb_subset.zip](https://github.com/jivankandel/PUResNet/blob/main/scpdb_subset.zip), and the methods were referenced accordingly.
